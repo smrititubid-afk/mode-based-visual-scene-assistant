@@ -177,6 +177,25 @@ jupyter notebook notebooks/Mode_Based_Visual_Scene_Assistant.ipynb
 - Extend support for video streams and mobile deployment.
 
 ---
+## Sample Results
+
+### BLEU Evaluation
+
+![BLEU](assets/bleu_results.png)
+
+### YOLO Detection
+
+![YOLO](assets/yolo_detection.png)
+
+### OCR
+
+![OCR](assets/ocr_results.png)
+
+### Final Assistive Output
+
+![Pipeline](assets/final_pipeline_output.png)
+
+---
 
 ## Results Summary
 
