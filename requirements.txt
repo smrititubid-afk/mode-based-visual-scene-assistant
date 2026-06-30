@@ -1,0 +1,13 @@
+tensorflow
+numpy
+pandas
+matplotlib
+Pillow
+tqdm
+opencv-python
+scikit-learn
+nltk
+easyocr
+ultralytics
+gtts
+streamlit
